@@ -1,0 +1,14 @@
+----------------------------------------------------------------------
+How many times a specific CAN msg-id appear.
+(MSG_ID, Counter)
+('01', 3)
+('7A', 3)
+('FF', 12)
+('1F', 3)
+----------------------------------------------------------------------
+What is the sum of all messages data length received by the server.
+108[Bytes]
+----------------------------------------------------------------------
+How many packets received by the server.
+21 packages
+----------------------------------------------------------------------
